@@ -21,7 +21,7 @@ This project uses CMake as the build system. To compile the project, follow thes
 
 2. Navigate to the project directory:
     ```
-    cd task_manager
+    cd taskmanager
     ```
 
 3. Create the build directory:
